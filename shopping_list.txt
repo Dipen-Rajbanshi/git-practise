@@ -1,4 +1,4 @@
-Shopping lists:
+This is my Shopping lists:
 Milk
 Sugar
 Jeans
@@ -7,4 +7,4 @@ Belts
 Meat
 Fish
 Burgers
-Fishing rod
+painting
